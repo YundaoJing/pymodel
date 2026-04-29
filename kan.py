@@ -1,4 +1,3 @@
-
 import matplotlib.figure
 import numpy
 import torch
@@ -74,9 +73,6 @@ import matplotlib.pyplot
     :vec_bias: (num_edge, ) torch.Tensor
         vector of edge(KANLayers) bias.
 """
-
-
-
 
 def get_mat_grid(
         mat_range_grid:torch.Tensor,
