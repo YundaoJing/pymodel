@@ -1490,5 +1490,3 @@ if __name__ == '__main__':
         device=device)
     kan.forward(mat_input)
     ###############################################
-
-[user_00@A7950 pymodel_v2]$ \Supporting Information
