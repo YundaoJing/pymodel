@@ -19,7 +19,7 @@ class BaseModel(torch.nn.Module):
 
 
     def train_model(
-            self,
+            self, 
             learn_rate=0.03,
             num_epoch=200, ):
 
